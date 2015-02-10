@@ -1,5 +1,6 @@
 {
 	"name": "jneslen/dynaloader",
+	"minimum-stability": "dev",
 	"description": "Class Loader for PHP",
 	"keywords": [
 		"loader",

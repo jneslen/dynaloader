@@ -1,4 +1,4 @@
-<?php defined('SYSPATH') OR die('No direct script access.');
+<?php defined('DYNALOADER_ROOT') OR die('No direct script access.');
 
 class Dynaloader
 {
@@ -32,4 +32,6 @@ class Dynaloader
 	 * @var  array   Include paths that are used to find files
 	 */
 	protected static $_paths = array(APPPATH, SYSPATH);
+
+
 }

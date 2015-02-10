@@ -21,8 +21,7 @@
 		"php": ">=5.3.1"
 	},
 	"autoload": {
-		"psr-0": {"Dynaloader": "/"},
-		"files": ["config/config.php"]
+		"psr-0": {"Dynaloader": "."}
 	},
 	"config": {
 		"bin-dir": "bin"

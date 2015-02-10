@@ -1,6 +1,6 @@
 <?php defined('DYNALOADER_ROOT') OR die('No direct script access.');
 
-class Dynaloader
+class Dynaloader_Core
 {
 	// Release version and codename
 	const VERSION  = '0.1';
